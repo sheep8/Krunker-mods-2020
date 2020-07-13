@@ -6,7 +6,7 @@
 // @version      1.9.6.4
 // @description  Australia On Fire
 // @author       Skid Lamer
-// @match        *://krunker.pro/*
+// @match        *://www.sheep8.space/2020/07/krunker-online.html*
 // @require      https://skidlamer.github.io/js/FileSaver.js
 // @run-at       document-start
 // @grant        none
